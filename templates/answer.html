@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Prediction</title>
+        <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/style2.css') }}"> 
+      </head>
+    <body>
+        <form>
+            <h1> Car Prediction Price {{ predict }}</h1>
+        </form>
+        <video autoplay muted loop id="myVideo">
+            <source src="{{ url_for('static',filename='css/uc.mp4') }}" type="video/mp4">
+        </video>
+    </body>
+</html>
+      
+      

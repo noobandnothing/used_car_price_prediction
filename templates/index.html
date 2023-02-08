@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/style.css') }}"> 
+    <title>Car Prediction</title>
+</head>
+<body>
+    <form method="POST">
+        <select name='score'>
+            <option  disabled selected hidden>Select Car</option>
+            {{ PP }}
+        </select> <br>
+        <input name='Year' placeholder='Year'> <br>
+        <input name='Kms_Driven' placeholder='Kms_Driven'> <br>
+        <select name="Fuel_Type_n">
+            <option  disabled selected hidden>Select Fuel Type</option>
+            <option  value=0>Petrol</option>
+            <option  value=1>GAS</option>
+        </select> <br>
+        <select name="Transmission_n">
+            <option  disabled selected hidden>Select Transmission Type</option>
+            <option  value=0>Auto</option>
+            <option  value=1>Manual</option>
+        </select> <br>
+        <button type = 'submit' >predict</button> <br>
+    </form>
+</body>
+</html>
