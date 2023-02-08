@@ -1,0 +1,54 @@
+Car_Name,Year,Selling_Price,Kms_Driven,Fuel_Type,Transmission,Mileage,Engine,Power,Seats
+Chevrolet cruze,2010,145000,175000,Petrol,Auto,7.3,1600,130,5
+Chevrolet cruze,2017,340000,95000,Petrol,Auto,7.3,1600,130,5
+Chevrolet cruze,2016,320000,110000,Petrol,Auto,7.3,1600,130,5
+Chevrolet cruze,2012,210000,200000,Petrol,Auto,7.3,1600,130,5
+Chevrolet cruze,2017,370000,40000,Petrol,Auto,7.3,1600,130,5
+Hyundai  Elantra-HD,2017,300000,71200,Petrol,Auto,6.6,1600,121,5
+Hyundai  Elantra-HD,2008,257000,100000,Petrol,Auto,6.6,1600,121,5
+Hyundai  Elantra-HD,2017,300000,65000,Petrol,Auto,6.6,1600,121,5
+Hyundai  Elantra-HD,2022,410000,5000,Petrol,Auto,6.6,1600,121,5
+Hyundai  Elantra-HD,2021,370000,20000,Petrol,Auto,6.6,1600,121,5
+KIA Grand Cerato,2022,615000,1000,Petrol,Auto,6.9,1600,130,5
+KIA Grand Cerato,2019,485000,42000,Petrol,Auto,6.9,1600,130,5
+KIA Grand Cerato,2021,555000,30000,Petrol,Auto,6.9,1600,130,5
+KIA Grand Cerato,2019,500000,87000,Petrol,Auto,6.9,1600,130,5
+KIA Grand Cerato,2021,550000,35000,Petrol,Auto,6.9,1600,130,5
+Toyota Yaris,2018,300000,50000,Petrol,Auto,6.2,1500,106,5
+Toyota Yaris,2015,290000,190000,Petrol,Auto,6.2,1500,106,5
+Toyota Yaris,2008,168000,240000,Petrol,Auto,6.2,1500,106,5
+Toyota Yaris,2007,200000,120000,Petrol,Auto,6.2,1500,106,5
+Toyota Yaris,2016,330000,60000,Petrol,Auto,6.2,1500,106,5
+BYD L3,2015,165000,180000,Petrol,Manual,6.7,1500,109,5
+BYD L3,2017,195000,170000,Petrol,Manual,6.7,1500,109,5
+BYD L3,2022,270000,15000,Petrol,Auto,7,1600,115,5
+BYD L3,2017,200000,250000,Petrol,Auto,7,1600,115,5
+BYD L3,2016,165000,500000,Petrol,Auto,7,1600,115,5
+Renault Megane,2012,220000,230000,Petrol,Auto,5.9,1500,106,5
+Renault Megane,2017,430000,115000,Petrol,Auto,6.1,1600,110,5
+Renault Megane,2017,450000,120000,Petrol,Auto,6.1,1600,110,5
+Renault Megane,2019,400000,160000,Petrol,Auto,6.1,1600,110,5
+Renault Megane,2019,430000,100000,Petrol,Auto,6.3,1600,110,5
+Renault Megane,2020,530000,114000,Petrol,Auto,6.3,1600,110,5
+Renault Megane,2020,500000,20000,Petrol,Auto,6.3,1600,110,5
+Renault Megane,2022,645000,25000,Petrol,Auto,6.3,1600,110,5
+Renault Megane,2022,630000,22000,Petrol,Auto,6.3,1600,110,5
+Mercedes-Benz C300,2020,2200000,30000,Petrol,Auto,9.8,3000,275,5
+Mercedes-Benz C300,2010,660000,220000,Petrol,Auto,11.7,3000,228,5
+Mercedes-Benz C300,2020,1750000,25000,Petrol,Auto,9.8,3000,275,5
+Mercedes-Benz C300,2010,550000,185000,Petrol,Auto,11.7,3000,228,5
+Nissan Sunny ,2023,410000,1000,Petrol,Auto,6.9,1500,108,5
+Nissan Sunny ,2021,370000,25000,Petrol,Auto,6.9,1500,108,5
+Nissan Sunny ,2020,320000,40000,Petrol,Auto,6.9,1500,108,5
+Nissan Sunny ,2017,250000,115000,Petrol,Auto,6.9,1500,108,5
+Nissan Sunny ,2015,210000,110000,Petrol,Auto,6.9,1500,108,5
+Peugeot 508,2021,850000,38000,Petrol,Auto,6.7,1600,165,5
+Peugeot 508,2018,610000,50000,Petrol,Auto,6.7,1600,165,5
+Peugeot 508,2022,990000,20000,Petrol,Auto,6.7,1600,165,5
+Peugeot 508,2015,410000,86000,Petrol,Auto,7.5,1600,165,5
+Peugeot 508,2013,350000,185500,Petrol,Auto,7.5,1600,160,5
+Opel Astra,2022,480000,30000,Petrol,Auto,6.5,1600,130,5
+Opel Astra,2020,445000,117000,Petrol,Auto,6.5,1600,130,5
+Opel Astra,2017,420000,130000,Petrol,Auto,6.9,1600,115,5
+Opel Astra,2015,325000,140000,Petrol,Auto,6.9,1600,115,5
+Opel Astra,2013,285000,184000,Petrol,Auto,6.9,1600,115,5
